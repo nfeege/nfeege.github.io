@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+h1 {
+    color: navy;
+}
+
 head {
     background-color: rgb(200,200,200);
 }
